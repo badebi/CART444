@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/badebi/CART444/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-This is my honor to present you my first assignment: [ASSETS] (https://github.com/badebi/CART444/edit/master/ASSETS.md)  
+This is my honor to present you my first assignment: [ASSETS](https://github.com/badebi/CART444/edit/master/ASSETS.md)  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
